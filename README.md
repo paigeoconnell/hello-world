@@ -6,4 +6,4 @@ First Repository
 3. Files Used
 4. Code
 ## Projects
-*Attached our my different projects I have created.*
+*Attached you can find my different projects I have created.*
