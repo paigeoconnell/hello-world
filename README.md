@@ -12,3 +12,4 @@ First Repository
 *Attached are different coding homework assignmnets I have completed.*
 ## In-Class Work
 *Below you can find in-class work in both Computional Thinking and Databse Management.*
+*The following file shows how the ticket system works for the event, Taste of Iowa City*
