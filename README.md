@@ -5,6 +5,7 @@ The following information pertains to a project I created in Foundations of Busi
 2. Description
 3. Files Used
 4. Code
+5. Final
 ## Project Title
 How do education level, gender, and race affect a persons' hourly wage?
 ## Description
@@ -14,3 +15,4 @@ Ongoing research aims to clarify the intricacies of how multiple factors contrib
   *- https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022*
 ## System
 *You can see how we carried out the project in the Excel sheet below*
+## Final
