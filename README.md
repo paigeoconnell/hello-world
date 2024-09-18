@@ -12,5 +12,5 @@ Ongoing research aims to clarify the intricacies of how multiple factors contrib
 ## Files Used
 *We found our data on Kaggle called Wages by Education in the USA (1973-2022)*
   *- https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022*
-## Code
-*You can see how we coded the data in the Excel sheet below*
+## System
+*You can see how we carried out the project in the Excel sheet below*
