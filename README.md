@@ -3,8 +3,8 @@ The following information pertains to a project I created in Foundations of Busi
 ## Table of Contents
 1. [Project Title](#Project-Title)
 2. [Description](#Description)
-3. [Files Used](#Files#Used)
-4. [Code](#Code)
+3. [Files Used](#Files-Used)
+4. [System](#System)
 5. [Final](#Final)
 ## Project Title
 How do education level, gender, and race affect a persons' hourly wage?
