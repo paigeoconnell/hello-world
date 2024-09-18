@@ -1,7 +1,7 @@
 # hello-world
 The following information pertains to a project I created in Foundations of Business Analytics.
 ## Table of Contents
-1. [Project Title] 
+1. [Project Title](#Project-Title)
 2. Description
 3. Files Used
 4. Code
