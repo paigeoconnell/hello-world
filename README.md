@@ -17,4 +17,4 @@ Ongoing research aims to clarify the intricacies of how multiple factors contrib
 *You can see how we carried out the project in the Excel sheet below*
 *- https://github.com/paigeoconnell/hello-world/blob/main/Copy%20of%20Wages%20by%20education.xlsx*
 ## Final
-Our group's final powerpoint is attached [here] (https://github.com/paigeoconnell/hello-world/blob/main/BAIS%20Project%20Presentation.pptx)
+Our group's final powerpoint is attached [[here](https://github.com/paigeoconnell/hello-world/blob/main/BAIS%20Project%20Presentation.pptx)]
