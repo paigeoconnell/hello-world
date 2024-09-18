@@ -2,10 +2,10 @@
 The following information pertains to a project I created in Foundations of Business Analytics.
 ## Table of Contents
 1. [Project Title](#Project-Title)
-2. Description
-3. Files Used
-4. Code
-5. Final
+2. [Description](#Descriotion)
+3. [Files Used](#Files Used)
+4. [Code](#Code)
+5. [Final](#Final)
 ## Project Title
 How do education level, gender, and race affect a persons' hourly wage?
 ## Description
