@@ -2,8 +2,8 @@
 The following information pertains to a project I created in Foundations of Business Analytics.
 ## Table of Contents
 1. [Project Title](#Project-Title)
-2. [Description](#Descriotion)
-3. [Files Used](#Files Used)
+2. [Description](#Description)
+3. [Files Used](#Files#Used)
 4. [Code](#Code)
 5. [Final](#Final)
 ## Project Title
