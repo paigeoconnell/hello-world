@@ -1,4 +1,4 @@
-# hello-world
+# Business Analytics Project
 The following information pertains to a project I created in Foundations of Business Analytics.
 ## Table of Contents
 1. [Project Title](#Project-Title)
